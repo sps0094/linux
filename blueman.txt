@@ -1,0 +1,4 @@
+default-agent
+scan on
+connect 17:11:10:EC:08:31
+exit
